@@ -1,0 +1,27 @@
+Start: Tue, 5 May 2015 19:30:00 -0800
+End: Tue, 5 May 2015 23:00:00 -0800
+Tasks: watched videos and read the reading web sites.
+
+Start: Wed, 6 May 2015 19:00:00 -0800
+End: Wed, 6 May 2015 23:00:00 -0800
+Tasks: Started working on getting table started on OSU server. worked great
+
+Start: Thu, 7 May 2015 19:00:00 -0800
+End: Thu, 7 May 2015 20:45:00 -0800
+Tasks: Worked on printing table from server and adding entrys
+
+Start: Fri, 8 May 2015 19:45:00 -0800
+End: Fri, 8 May 2015 23:59:00 -0800
+Tasks: Worked on changing and deleting entrys
+
+Start: Sat, 9 May 2015 19:30:00 -0800
+End: Sun, 10 May 2015 04:15:00 -0800
+Tasks: Worked on the same as yesterday and sorting
+
+Start: Sun, 10 May 2015 13:15:00 -0800
+End: Sun, 10 May 2015 15:00:00 -0800
+Tasks: Worked on sorting with no luck, cant submit the post correctly.
+
+Start: Sun, 10 May 2015 18:00:00 -0800
+End: Sun, 10 May 2015 18:30:00 -0800
+Tasks: Worked on submiting the assignment
